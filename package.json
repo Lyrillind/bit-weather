@@ -1,0 +1,27 @@
+{
+  "name": "bit-weather",
+  "version": "1.0.0",
+  "description": "Bitbar weather plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://MiincGu@github.com/MiincGu/bit-weather.git"
+  },
+  "keywords": [
+    "bitbar",
+    "weather"
+  ],
+  "author": "MiincGu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiincGu/bit-weather/issues"
+  },
+  "homepage": "https://github.com/MiincGu/bit-weather#readme",
+  "dependencies": {
+    "bitbar": "^0.2.1",
+    "httpclient": "0.0.4"
+  }
+}
