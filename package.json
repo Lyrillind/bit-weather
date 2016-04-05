@@ -22,6 +22,10 @@
   "homepage": "https://github.com/MiincGu/bit-weather#readme",
   "dependencies": {
     "bitbar": "^0.2.1",
-    "httpclient": "0.0.4"
+    "httpclient": "0.0.4",
+    "moment": "^2.12.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.0.2"
   }
 }
